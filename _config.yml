@@ -46,4 +46,7 @@ exclude:
 # Theme
 theme: "ed."
 
+# Added by DTR
+host: 0.0.0.0
+
 
